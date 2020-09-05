@@ -1,3 +1,3 @@
 # CryptoCrop
 
-###### Atmanirbhar Kisaan
+Using Machine Learning for crops
